@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>نظام العيادات الذكي</h1>
+      <p>مرحباً بك في الواجهة الرئيسية</p>
+    </div>
+  );
+}
